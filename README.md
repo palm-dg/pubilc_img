@@ -1,2 +1,2 @@
-# pubilc_img
+# public_img
 图床用图
